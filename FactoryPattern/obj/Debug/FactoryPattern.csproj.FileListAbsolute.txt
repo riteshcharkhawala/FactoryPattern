@@ -1,0 +1,8 @@
+D:\Apps\GitHub\Demo\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\Apps\GitHub\Demo\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\Apps\GitHub\Demo\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+D:\Apps\GitHub\Demo\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
+D:\Apps\GitHub\Demo\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.Cache
+D:\Apps\GitHub\Demo\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\Apps\GitHub\Demo\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+D:\Apps\GitHub\Demo\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Form1.resources
